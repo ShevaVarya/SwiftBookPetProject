@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwiftBook</string>
+    <string name="authorization_conditions">Авторизуясь, я соглашаюсь с <u>условиями использования</u></string>"
+</resources>
