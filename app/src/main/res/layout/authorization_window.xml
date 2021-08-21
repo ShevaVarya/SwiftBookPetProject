@@ -31,7 +31,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/border_for_phone_nimber"
+            android:background="@drawable/border_for_phone_number"
             android:hint="+8 800 2222 600"
             android:inputType="phone"
             android:padding="16dp"
